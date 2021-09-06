@@ -1,0 +1,25 @@
+div#cartao{
+    background-image: url("images/background.png");
+    background-size: 100%;
+    width: 400px;
+    height: 200px;
+    margin: 20px;
+}
+
+p#nome{
+    font-size: 20pt;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#insta{
+    list-style-image: url(images/instagram.png);
+}
+
+#twitter{
+    list-style-image: url(images/twitter.png);
+}
+
+#youtube{
+    list-style-image: url(images/youtube.png);
+}
+
